@@ -1,4 +1,3 @@
-background: url(mountain.jpg);
+background: url(https://artclass.site/assets/images/icon.png);
   background-repeat: no-repeat;
   background-size: auto;
-}
